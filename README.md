@@ -1,0 +1,1 @@
+# bower-froala-wysiwyg-editor-min
