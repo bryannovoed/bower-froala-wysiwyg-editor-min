@@ -1,0 +1,11 @@
+{
+  "name": "bower-froala-wysiwyg-editor-min",
+  "main": "froala_editor.min.js",
+  "version": "2.7.1",
+  "homepage": "https://github.com/bryannovoed/bower-froala-wysiwyg-editor-mi",
+  "authors": [
+    "Bryan Peng <bryan@novoed.com>"
+  ],
+  "description": "Bower compromise library https://github.com/nlp-compromise/compromise",
+  "license": "MIT"
+}
